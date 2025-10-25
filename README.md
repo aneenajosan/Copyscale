@@ -6,17 +6,74 @@ Content creators, movie studios, and copyright holders currently lack effective 
 ---
 
 # Features
-## Multi-Test Image Analysis
+### Multi-Test Image Analysis
 1. **Direct Copy Detection**: Pixel-level and structural similarity analysis
 
 2. **Style Match Analysis**: Artistic patterns, textures, and stylistic elements
 
 3. **Content Similarity**: Subject matter, composition, and object relationships
 
-4.**Weighted Risk Assessment**: Intelligent scoring with configurable weights
-## Video Content Protection
+4. **Weighted Risk Assessment**: Intelligent scoring with configurable weights
+
+### Video Content Protection
 1. Frame-by-frame analysis of video content
 
 2. Keyframe extraction and comparison
 
 3. Batch processing against copyright database
+### Advanced Analytics
+1. Interactive radar charts and heatmaps
+
+2. Progress visualization with detailed metrics
+
+3. Professional risk assessment dashboard
+
+4. Comprehensive analysis notes
+
+### Copyright Database
+1. Secure storage of copyrighted content fingerprints
+
+2. Batch scanning against entire database
+
+3. Multi-owner support with metadata management
+---
+# Installation
+## Pre-requisites
+- Python 3.8 or higher
+- pip package manager
+
+ ## Step-by-Step Setup
+### 1. Clone the Repository
+```bash
+git clone https://github.com/yourusername/copyscale.git
+cd copyscale
+```
+### 2. Create Virtual Environment (Recommended)
+**For Windows**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**For macOS/Linux**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Launch the Application
+```bash
+streamlit run app.py
+```
+### 5. Access the Application
+Open your web browser and navigate to:
+
+```text
+http://localhost:8501
+```
+
+---
+
