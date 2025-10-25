@@ -45,7 +45,7 @@ Content creators, movie studios, and copyright holders currently lack effective 
  ## Step-by-Step Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/copyscale.git
+git clone https://github.com/aneenajosan/Copyscale.git
 cd copyscale
 ```
 ### 2. Create Virtual Environment (Recommended)
