@@ -88,5 +88,6 @@ Copyscale/
 ├── requirements.txt      # Python dependencies
 ├── README.md            # This file
 ├── .gitignore           # Git ignore file
+├── Project Abstract.docx # Project abstract and user flow
 └── copyscale.pdf        # Project documentation and presentation
 ```
