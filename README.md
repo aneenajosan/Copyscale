@@ -76,4 +76,17 @@ http://localhost:8501
 ```
 
 ---
-
+# File Structure
+```text
+Copyscale/
+├── app.py                 # Main Streamlit application
+├── analyzer.py           # Core analysis engine with multi-layer features
+├── fingerprint.py        # Image fingerprinting using ResNet50
+├── visualizer.py         # Data visualization and chart generation
+├── video_analyzer.py     # Video processing and frame analysis
+├── copyright_db.py       # Database management for copyrighted content
+├── requirements.txt      # Python dependencies
+├── README.md            # This file
+├── .gitignore           # Git ignore file
+└── copyscale.pdf        # Project documentation and presentation
+```
